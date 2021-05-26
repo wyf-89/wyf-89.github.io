@@ -11,10 +11,12 @@ redirect_from:
 
 Education
 ======
-* __Ph.D. in Statistics__, College of Applied Sciences, Beijing University of Technology, Beijing, China, 2013-2019
+* __Ph.D. in Statistics__  
+  College of Applied Sciences, Beijing University of Technology, Beijing, China, 2013-2019
   * Thesis Topic: _Estimation for Several Functional Models_
   * Advisor: Zhongzhan ZHANG, Ph.D
-* __B.S. in in Statistics__, School of Mathematics and Information Science, Weifang University, Weifang, China, 2009-2013
+* __B.S. in in Statistics__  
+  School of Mathematics and Information Science, Weifang University, Weifang, China, 2009-2013
 
 Research Interests
 ======
