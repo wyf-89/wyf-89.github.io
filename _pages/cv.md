@@ -11,21 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* __Ph.D. in Statistics__, College of Applied Sciences, Beijing University of Technology, Beijing, China, 2013-2019
+  * Thesis Topic: _Estimation for Several Functional Models_
+  * Advisor: Zhongzhan ZHANG, Ph.D
+* __B.S. in in Statistics__, School of Mathematics and Information Science, Weifang University, Weifang, China, 2009-2013
 
-Work experience
+Research Interests
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* __Complex and Structured Massive Data Analysis__
+  * Functional data analysis  
+  Functional linear regression; Independence test; Model-based design; Applications
+involving functional objects, e.g. brain imaging data, DTI data
+  * Robust statistics  
+  Varying coecient model for functional response; Functional linear quantile regression
+* __Statistical Optimization in Data Science__
+  * Operator splitting schemes
+  * (Distributional) Reinforcement learning
   
 Skills
 ======
