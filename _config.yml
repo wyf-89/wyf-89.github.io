@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Yafei Wang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              :
   location         : "Edmonton, AB, Canada"
   employer         :
   pubmed           :
