@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dr. Yafei Wang's website"
+title: "Dr. Yafei Wang's academic site"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website!
+Welcome to my academic site!
