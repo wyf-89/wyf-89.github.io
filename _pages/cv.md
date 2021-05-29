@@ -43,11 +43,6 @@ Department of Mathematical and Statistical Sciences, University of Alberta (Oct 
 
 Teaching Experience
 ======
-* __Graduate Courses Taught__
-  * STAT 580 Stochastic Processes (2020, Fall)  
-
-Teaching Experience
-======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
